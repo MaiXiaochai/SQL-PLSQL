@@ -8,6 +8,7 @@ DECLARE
 
     --2. 为光标定义对应的变量
     pname   emp.ename%TYPE;
+    
     psal    emp.sal%TYPE;
 BEGIN
     --3.打开光标
